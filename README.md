@@ -4,15 +4,18 @@
 
 # PC4 - ML NET
 Se pide:
+
 ![image](https://github.com/jesus73514145/Ejercicio_06112023/assets/114105503/94db1040-9bd7-4df4-8894-47a7a7601f84)
 
 ## Crear una Aplicacion Web con un Formulario que evalue el texto ingresado si es positivo o negativo (ingles)  [✅]
 ![image](https://github.com/jesus73514145/Ejercicio_06112023/assets/114105503/0f956393-930f-4249-a9a1-02f97abe83df)
 
 Datos con los que entrene a mi modelo  [✅]
+
 ![image](https://github.com/jesus73514145/Ejercicio_06112023/assets/114105503/1ea411ca-f9f5-4768-8de3-c52cccd603f3)
 
 Resultados deseados  [✅]
+
 ![image](https://github.com/jesus73514145/Ejercicio_06112023/assets/114105503/327a2d8b-5018-4211-8d83-51d4c9d3a937)
 ![image](https://github.com/jesus73514145/Ejercicio_06112023/assets/114105503/ee2cd3cd-19a9-4b90-8bd8-d66c103ffee4)
 
@@ -30,7 +33,7 @@ https://github.com/jesus73514145/Ejercicio_VS
 ![image](https://github.com/jesus73514145/Ejercicio_06112023/assets/114105503/7e8dd4a6-ac0d-413c-b91c-b0630bc43c34)
 
 
-## Lin de la pagina en render [✅]
+## Link de la pagina en render [✅]
 https://jesus-mlnet.onrender.com/ 
 
 <p align="center">
