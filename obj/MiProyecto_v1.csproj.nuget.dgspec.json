@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\MiProyecto_v1\\MiProyecto_v1.csproj": {}
+    "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\Ejercicio_06112023\\MiProyecto_v1.csproj": {}
   },
   "projects": {
-    "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\MiProyecto_v1\\MiProyecto_v1.csproj": {
+    "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\Ejercicio_06112023\\MiProyecto_v1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\MiProyecto_v1\\MiProyecto_v1.csproj",
+        "projectUniqueName": "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\Ejercicio_06112023\\MiProyecto_v1.csproj",
         "projectName": "MiProyecto_v1",
-        "projectPath": "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\MiProyecto_v1\\MiProyecto_v1.csproj",
+        "projectPath": "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\Ejercicio_06112023\\MiProyecto_v1.csproj",
         "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
-        "outputPath": "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\MiProyecto_v1\\obj\\",
+        "outputPath": "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\Ejercicio_06112023\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",

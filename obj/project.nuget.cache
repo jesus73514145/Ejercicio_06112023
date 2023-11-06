@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ocl7Z5M0Rm3HNrEfJOP0HiDw8xjZ/k5a1KrFe3SgPJ0/ynfushFltgVOZm1hcrWI94P4t9uJ1FyLX+qYS+ryFA==",
+  "dgSpecHash": "7Im1QWHouU7lxXeQOvpUJ90It+yszpLUI+U58822JJg/qXRUQ7dKihT+p7dPclHeOQVovQndfYcC9n8d5qWobQ==",
   "success": true,
-  "projectFilePath": "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\MiProyecto_v1\\MiProyecto_v1.csproj",
+  "projectFilePath": "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\Ejercicio_06112023\\MiProyecto_v1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jesus\\.nuget\\packages\\microsoft.ml\\3.0.0-preview.23266.6\\microsoft.ml.3.0.0-preview.23266.6.nupkg.sha512",
     "C:\\Users\\jesus\\.nuget\\packages\\microsoft.ml.cpumath\\3.0.0-preview.23266.6\\microsoft.ml.cpumath.3.0.0-preview.23266.6.nupkg.sha512",
