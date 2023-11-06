@@ -1,6 +1,6 @@
 < p  alinear = " centro " >
   < img  src = " https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif " >
-</p> 
+</p> _ _
 
 # PC4 - ML NET
 Se pide:
@@ -31,4 +31,4 @@ https://github.com/jesus73514145/Ejercicio_VS
 
 < p  alinear = " centro " >
   < img  src = " https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif " >
-</p> 
+</p> _ _
