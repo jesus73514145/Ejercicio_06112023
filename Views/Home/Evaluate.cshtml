@@ -6,13 +6,15 @@
 
 <form asp-action="Evaluate" method="post">
     <div class="form-group">
-        <label for="inputText">Enter Text:</label>
-        <textarea class="form-control" id="inputText" name="inputText" rows="4" required></textarea>
+        <label for="userInputText">Enter Text:</label>
+        <textarea class="form-control" id="userInputText" name="userInputText" rows="4" required></textarea>
     </div>
     <button type="submit" class="btn btn-primary">Evaluate</button>
 </form>
 
-@if (ViewBag.Result != null)
+<!-- Mostrar el resultado si existe. -->
+@if (ViewBag.SentimentResult != null)
 {
-        <h3 class="mt-4">Result: @ViewBag.Result</h3>
+        <p>Texto: @ViewBag.UserInput</p>
+        <p>Sentimiento: @ViewBag.SentimentResult</p>
 }
