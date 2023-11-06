@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Eqjfp22SyEexBT8wJzEnUDgkytTUnfZlaj0s5YYQKyA=",
+  "Hash": "qA4IqM0dE5W7yzSwZCrFFVQeo3Oa687hCr0kLcG3LZU=",
   "Source": "MiProyecto_v1",
   "BasePath": "_content/MiProyecto_v1",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\MiProyecto_v1\\wwwroot\\images\\img_logo.jpeg",
+      "SourceId": "MiProyecto_v1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\MiProyecto_v1\\wwwroot\\",
+      "BasePath": "_content/MiProyecto_v1",
+      "RelativePath": "images/img_logo.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\img_logo.jpeg"
     },
     {
       "Identity": "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\MiProyecto_v1\\wwwroot\\js\\site.js",

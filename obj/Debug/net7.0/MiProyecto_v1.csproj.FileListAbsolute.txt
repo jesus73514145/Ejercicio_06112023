@@ -49,3 +49,8 @@ D:\JESUS SORIA\Todo mi 6to ciclo de la UNI\Visual\MiProyecto_v1\obj\Debug\net7.0
 D:\JESUS SORIA\Todo mi 6to ciclo de la UNI\Visual\MiProyecto_v1\obj\Debug\net7.0\MiProyecto_v1.pdb
 D:\JESUS SORIA\Todo mi 6to ciclo de la UNI\Visual\MiProyecto_v1\obj\Debug\net7.0\MiProyecto_v1.genruntimeconfig.cache
 D:\JESUS SORIA\Todo mi 6to ciclo de la UNI\Visual\MiProyecto_v1\obj\Debug\net7.0\ref\MiProyecto_v1.dll
+D:\JESUS SORIA\Todo mi 6to ciclo de la UNI\Visual\MiProyecto_v1\bin\Debug\net7.0\Microsoft.ML.FastTree.dll
+D:\JESUS SORIA\Todo mi 6to ciclo de la UNI\Visual\MiProyecto_v1\bin\Debug\net7.0\runtimes\linux-x64\native\libFastTreeNative.so
+D:\JESUS SORIA\Todo mi 6to ciclo de la UNI\Visual\MiProyecto_v1\bin\Debug\net7.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+D:\JESUS SORIA\Todo mi 6to ciclo de la UNI\Visual\MiProyecto_v1\bin\Debug\net7.0\runtimes\win-x64\native\FastTreeNative.dll
+D:\JESUS SORIA\Todo mi 6to ciclo de la UNI\Visual\MiProyecto_v1\bin\Debug\net7.0\runtimes\win-x86\native\FastTreeNative.dll
