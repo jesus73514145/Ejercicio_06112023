@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\MiProyecto_v1\\wwwroot\\images\\img_logo.jpeg",
+      "PackagePath": "staticwebassets\\images\\img_logo.jpeg"
+    },
+    {
       "Id": "D:\\JESUS SORIA\\Todo mi 6to ciclo de la UNI\\Visual\\MiProyecto_v1\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
