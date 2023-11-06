@@ -27,6 +27,9 @@ https://github.com/jesus73514145/Ejercicio_VS
 ## Ya esta deployado en render [✅]
 ![image](https://github.com/jesus73514145/Ejercicio_06112023/assets/114105503/5b624ab1-5614-4188-9243-10ce8e386595)
 
+![image](https://github.com/jesus73514145/Ejercicio_06112023/assets/114105503/7e8dd4a6-ac0d-413c-b91c-b0630bc43c34)
+
+
 ## Lin de la pagina en render [✅]
 https://jesus-mlnet.onrender.com/ 
 
